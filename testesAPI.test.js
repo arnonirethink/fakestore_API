@@ -1,4 +1,4 @@
-const fn = require("../main");
+const fn = require("../funcoescompiladasFAKESTOREAPI.js");
 
 describe("getAllProducts", () => {
   it("should return an array with the products", async () => {
